@@ -13,3 +13,8 @@ ASideScroller2D_CPPGameMode::ASideScroller2D_CPPGameMode()
 		DefaultPawnClass = PlayerPawnBPClass.Class;
 	}
 }
+
+void ASideScroller2D_CPPGameMode::addCoinScore()
+{
+	score += 100;
+}

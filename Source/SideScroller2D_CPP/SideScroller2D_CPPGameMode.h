@@ -13,6 +13,10 @@ class ASideScroller2D_CPPGameMode : public AGameModeBase
 
 public:
 	ASideScroller2D_CPPGameMode();
+
+	int32 score = 0;
+
+	void addCoinScore();
 };
 
 

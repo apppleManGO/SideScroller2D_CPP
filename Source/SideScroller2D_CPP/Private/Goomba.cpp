@@ -17,6 +17,11 @@ AGoomba::AGoomba()
 
     GetCharacterMovement()->bOrientRotationToMovement = false;
     GetCharacterMovement()->RotationRate = FRotator(0.0f, 180.0f, 0.0f);
+
+    // ±âº» Ä¸½¶ ÄÄÆ÷³ÍÆ®¿¡ ¿À¹ö·¦ ÀÌº¥Æ® Ãß°¡
+    GetCapsuleComponent()->OnComponentBeginOverlap.AddDynamic(this, &AGoomba::OnOverlapBegin);
+
+    
 }
 
 void AGoomba::BeginPlay()
