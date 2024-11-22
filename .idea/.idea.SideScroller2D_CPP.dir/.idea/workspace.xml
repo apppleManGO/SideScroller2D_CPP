@@ -7,7 +7,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c63f9438-4f37-44e6-8fa2-c88d06489168" name="변경" comment="" />
+    <list default="true" id="c63f9438-4f37-44e6-8fa2-c88d06489168" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SideScroller2D_CPP.dir/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SideScroller2D_CPP.dir/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SideScroller2D_CPP.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SideScroller2D_CPP.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Maps/Map_1.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/Map_1.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/SideScroller2D/BP_FlagPole.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/SideScroller2D/BP_FlagPole.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/SideScroller2D_CPP/Private/FlagPole.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/SideScroller2D_CPP/Private/FlagPole.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/SideScroller2D_CPP/Public/FlagPole.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/SideScroller2D_CPP/Public/FlagPole.h" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,22 +23,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "apppleManGO"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;apppleManGO&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/apppleManGO/SideScroller2D_CPP.git",
-    "accountId": "fbd45356-eaaf-4567-ab6d-789cf01fd98d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/apppleManGO/SideScroller2D_CPP.git&quot;,
+    &quot;accountId&quot;: &quot;fbd45356-eaaf-4567-ab6d-789cf01fd98d&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2oyNiEfTh7y4yrWjVNGF3Kvm8NH" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -40,11 +47,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "mac11.22",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "CodeLensConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -131,6 +140,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731837981736</updated>
       <workItem from="1731837983451" duration="3388000" />
+      <workItem from="1732271497904" duration="4155000" />
     </task>
     <servers />
   </component>
@@ -138,6 +148,17 @@
     <option name="version" value="3" />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
