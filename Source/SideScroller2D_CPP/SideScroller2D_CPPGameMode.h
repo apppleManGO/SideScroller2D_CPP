@@ -13,10 +13,19 @@ class ASideScroller2D_CPPGameMode : public AGameModeBase
 
 public:
 	ASideScroller2D_CPPGameMode();
-
+	virtual void BeginPlay() override;
 	int32 score = 0;
 
 	void addCoinScore();
+
+	// 타이머 관련
+	FTimerHandle TimerHandle;
+	UPROPERTY(EditAnywhere,BlueprintReadWrite)
+	int32 RemainingTime;
+
+	void DecrementTimer();
+	void OnTimeUp();
+
 };
 
 
